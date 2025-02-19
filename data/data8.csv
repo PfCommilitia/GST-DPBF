@@ -1,0 +1,434 @@
+SECTION Comments
+Name "D:\study\help\design\data\data8.csv"
+Creator "graph_hash_of_mixed_weighted_save_for_GSTP"
+END
+
+lambda 1
+
+input_graph |V|=100 |E|=200
+input_graph Vertex 99 0.0000000000
+input_graph Vertex 98 0.0000000000
+input_graph Vertex 97 0.0000000000
+input_graph Vertex 96 0.0000000000
+input_graph Vertex 95 0.0000000000
+input_graph Vertex 94 0.0000000000
+input_graph Vertex 93 0.0000000000
+input_graph Vertex 92 0.0000000000
+input_graph Vertex 91 0.0000000000
+input_graph Vertex 90 0.0000000000
+input_graph Vertex 89 0.0000000000
+input_graph Vertex 88 0.0000000000
+input_graph Vertex 87 0.0000000000
+input_graph Vertex 86 0.0000000000
+input_graph Vertex 85 0.0000000000
+input_graph Vertex 84 0.0000000000
+input_graph Vertex 83 0.0000000000
+input_graph Vertex 82 0.0000000000
+input_graph Vertex 81 0.0000000000
+input_graph Vertex 80 0.0000000000
+input_graph Vertex 79 0.0000000000
+input_graph Vertex 78 0.0000000000
+input_graph Vertex 77 0.0000000000
+input_graph Vertex 76 0.0000000000
+input_graph Vertex 75 0.0000000000
+input_graph Vertex 74 0.0000000000
+input_graph Vertex 73 0.0000000000
+input_graph Vertex 72 0.0000000000
+input_graph Vertex 71 0.0000000000
+input_graph Vertex 70 0.0000000000
+input_graph Vertex 69 0.0000000000
+input_graph Vertex 68 0.0000000000
+input_graph Vertex 67 0.0000000000
+input_graph Vertex 66 0.0000000000
+input_graph Vertex 65 0.0000000000
+input_graph Vertex 64 0.0000000000
+input_graph Vertex 63 0.0000000000
+input_graph Vertex 62 0.0000000000
+input_graph Vertex 61 0.0000000000
+input_graph Vertex 60 0.0000000000
+input_graph Vertex 59 0.0000000000
+input_graph Vertex 28 0.0000000000
+input_graph Vertex 27 0.0000000000
+input_graph Vertex 26 0.0000000000
+input_graph Vertex 25 0.0000000000
+input_graph Vertex 24 0.0000000000
+input_graph Vertex 23 0.0000000000
+input_graph Vertex 22 0.0000000000
+input_graph Vertex 21 0.0000000000
+input_graph Vertex 20 0.0000000000
+input_graph Vertex 19 0.0000000000
+input_graph Vertex 18 0.0000000000
+input_graph Vertex 17 0.0000000000
+input_graph Vertex 16 0.0000000000
+input_graph Vertex 15 0.0000000000
+input_graph Vertex 14 0.0000000000
+input_graph Vertex 13 0.0000000000
+input_graph Vertex 0 0.0000000000
+input_graph Vertex 1 0.0000000000
+input_graph Vertex 2 0.0000000000
+input_graph Vertex 3 0.0000000000
+input_graph Vertex 4 0.0000000000
+input_graph Vertex 5 0.0000000000
+input_graph Vertex 6 0.0000000000
+input_graph Vertex 7 0.0000000000
+input_graph Vertex 8 0.0000000000
+input_graph Vertex 9 0.0000000000
+input_graph Vertex 10 0.0000000000
+input_graph Vertex 11 0.0000000000
+input_graph Vertex 12 0.0000000000
+input_graph Vertex 29 0.0000000000
+input_graph Vertex 30 0.0000000000
+input_graph Vertex 31 0.0000000000
+input_graph Vertex 32 0.0000000000
+input_graph Vertex 33 0.0000000000
+input_graph Vertex 34 0.0000000000
+input_graph Vertex 35 0.0000000000
+input_graph Vertex 36 0.0000000000
+input_graph Vertex 37 0.0000000000
+input_graph Vertex 38 0.0000000000
+input_graph Vertex 39 0.0000000000
+input_graph Vertex 40 0.0000000000
+input_graph Vertex 41 0.0000000000
+input_graph Vertex 42 0.0000000000
+input_graph Vertex 43 0.0000000000
+input_graph Vertex 44 0.0000000000
+input_graph Vertex 45 0.0000000000
+input_graph Vertex 46 0.0000000000
+input_graph Vertex 47 0.0000000000
+input_graph Vertex 48 0.0000000000
+input_graph Vertex 49 0.0000000000
+input_graph Vertex 50 0.0000000000
+input_graph Vertex 51 0.0000000000
+input_graph Vertex 52 0.0000000000
+input_graph Vertex 53 0.0000000000
+input_graph Vertex 54 0.0000000000
+input_graph Vertex 55 0.0000000000
+input_graph Vertex 56 0.0000000000
+input_graph Vertex 57 0.0000000000
+input_graph Vertex 58 0.0000000000
+
+input_graph Edge 95 96 3
+input_graph Edge 91 99 4
+input_graph Edge 90 92 4
+input_graph Edge 89 93 3
+input_graph Edge 85 95 4
+input_graph Edge 83 88 2
+input_graph Edge 83 93 4
+input_graph Edge 79 89 3
+input_graph Edge 77 87 3
+input_graph Edge 76 86 1
+input_graph Edge 74 94 2
+input_graph Edge 73 86 2
+input_graph Edge 73 93 3
+input_graph Edge 71 74 4
+input_graph Edge 69 75 3
+input_graph Edge 69 80 4
+input_graph Edge 69 89 3
+input_graph Edge 68 87 3
+input_graph Edge 67 71 3
+input_graph Edge 65 77 3
+input_graph Edge 63 69 2
+input_graph Edge 63 91 1
+input_graph Edge 62 87 1
+input_graph Edge 61 65 1
+input_graph Edge 61 90 1
+input_graph Edge 60 96 2
+input_graph Edge 60 98 3
+input_graph Edge 59 80 4
+input_graph Edge 28 48 4
+input_graph Edge 28 68 3
+input_graph Edge 28 82 1
+input_graph Edge 27 90 3
+input_graph Edge 26 36 3
+input_graph Edge 26 46 3
+input_graph Edge 25 29 3
+input_graph Edge 24 49 2
+input_graph Edge 24 55 3
+input_graph Edge 24 60 4
+input_graph Edge 24 68 4
+input_graph Edge 23 25 2
+input_graph Edge 23 33 2
+input_graph Edge 23 38 4
+input_graph Edge 23 55 3
+input_graph Edge 23 94 4
+input_graph Edge 22 36 3
+input_graph Edge 22 45 1
+input_graph Edge 22 57 4
+input_graph Edge 22 63 3
+input_graph Edge 22 72 4
+input_graph Edge 22 80 1
+input_graph Edge 22 84 3
+input_graph Edge 22 89 1
+input_graph Edge 21 26 2
+input_graph Edge 21 68 4
+input_graph Edge 21 80 4
+input_graph Edge 20 23 2
+input_graph Edge 20 40 1
+input_graph Edge 19 23 1
+input_graph Edge 19 35 2
+input_graph Edge 19 55 4
+input_graph Edge 19 56 3
+input_graph Edge 19 66 1
+input_graph Edge 18 31 4
+input_graph Edge 17 21 1
+input_graph Edge 17 77 3
+input_graph Edge 17 78 3
+input_graph Edge 16 19 1
+input_graph Edge 16 49 2
+input_graph Edge 16 57 2
+input_graph Edge 15 18 4
+input_graph Edge 15 54 2
+input_graph Edge 14 50 2
+input_graph Edge 14 58 3
+input_graph Edge 14 62 2
+input_graph Edge 13 37 1
+input_graph Edge 13 39 4
+input_graph Edge 13 70 2
+input_graph Edge 13 87 4
+input_graph Edge 0 1 4
+input_graph Edge 0 2 4
+input_graph Edge 0 5 3
+input_graph Edge 0 6 3
+input_graph Edge 0 7 1
+input_graph Edge 0 15 3
+input_graph Edge 0 61 1
+input_graph Edge 1 42 4
+input_graph Edge 2 3 2
+input_graph Edge 2 32 1
+input_graph Edge 3 4 2
+input_graph Edge 3 8 3
+input_graph Edge 3 14 4
+input_graph Edge 3 32 4
+input_graph Edge 3 59 1
+input_graph Edge 3 84 4
+input_graph Edge 3 93 4
+input_graph Edge 4 13 4
+input_graph Edge 4 16 1
+input_graph Edge 4 28 3
+input_graph Edge 4 44 1
+input_graph Edge 4 67 1
+input_graph Edge 5 17 3
+input_graph Edge 5 30 1
+input_graph Edge 5 54 3
+input_graph Edge 6 9 1
+input_graph Edge 6 27 2
+input_graph Edge 6 47 2
+input_graph Edge 6 67 2
+input_graph Edge 6 84 4
+input_graph Edge 6 96 1
+input_graph Edge 6 97 2
+input_graph Edge 7 9 3
+input_graph Edge 7 27 3
+input_graph Edge 7 70 3
+input_graph Edge 7 75 3
+input_graph Edge 7 94 2
+input_graph Edge 8 12 2
+input_graph Edge 8 17 2
+input_graph Edge 8 22 3
+input_graph Edge 8 43 4
+input_graph Edge 8 50 2
+input_graph Edge 9 10 4
+input_graph Edge 9 11 1
+input_graph Edge 9 86 1
+input_graph Edge 10 20 3
+input_graph Edge 10 25 2
+input_graph Edge 11 12 3
+input_graph Edge 11 24 3
+input_graph Edge 11 37 3
+input_graph Edge 11 67 4
+input_graph Edge 12 25 3
+input_graph Edge 12 34 2
+input_graph Edge 12 53 1
+input_graph Edge 29 45 3
+input_graph Edge 29 76 2
+input_graph Edge 29 88 2
+input_graph Edge 29 99 3
+input_graph Edge 30 52 3
+input_graph Edge 30 77 4
+input_graph Edge 30 93 3
+input_graph Edge 30 95 3
+input_graph Edge 31 39 2
+input_graph Edge 31 51 3
+input_graph Edge 31 99 1
+input_graph Edge 32 34 1
+input_graph Edge 32 59 4
+input_graph Edge 32 72 1
+input_graph Edge 32 76 4
+input_graph Edge 32 85 3
+input_graph Edge 33 67 3
+input_graph Edge 33 80 2
+input_graph Edge 34 86 3
+input_graph Edge 35 39 1
+input_graph Edge 35 41 4
+input_graph Edge 35 44 3
+input_graph Edge 35 49 4
+input_graph Edge 35 55 3
+input_graph Edge 35 84 4
+input_graph Edge 35 95 2
+input_graph Edge 35 99 2
+input_graph Edge 36 54 4
+input_graph Edge 36 96 4
+input_graph Edge 37 38 1
+input_graph Edge 37 66 2
+input_graph Edge 37 68 2
+input_graph Edge 37 79 2
+input_graph Edge 38 73 3
+input_graph Edge 38 96 2
+input_graph Edge 39 44 3
+input_graph Edge 39 68 1
+input_graph Edge 40 52 1
+input_graph Edge 41 73 2
+input_graph Edge 42 45 1
+input_graph Edge 42 83 3
+input_graph Edge 43 48 1
+input_graph Edge 43 82 4
+input_graph Edge 44 46 1
+input_graph Edge 44 53 3
+input_graph Edge 45 64 1
+input_graph Edge 45 70 4
+input_graph Edge 46 97 4
+input_graph Edge 49 66 2
+input_graph Edge 49 69 1
+input_graph Edge 49 88 4
+input_graph Edge 50 53 3
+input_graph Edge 50 77 1
+input_graph Edge 50 93 1
+input_graph Edge 52 72 4
+input_graph Edge 52 81 2
+input_graph Edge 53 54 1
+input_graph Edge 53 91 3
+input_graph Edge 53 93 1
+input_graph Edge 54 91 4
+input_graph Edge 55 56 4
+input_graph Edge 55 57 2
+input_graph Edge 56 78 2
+input_graph Edge 56 81 1
+input_graph Edge 56 94 3
+input_graph Edge 57 58 1
+input_graph Edge 58 76 2
+input_graph Edge 58 82 3
+
+group_graph |V|=105 |E|=8
+group_graph Vertex 104 0.0000000000
+group_graph Vertex 103 0.0000000000
+group_graph Vertex 102 0.0000000000
+group_graph Vertex 101 0.0000000000
+group_graph Vertex 100 0.0000000000
+group_graph Vertex 58 0.0000000000
+group_graph Vertex 57 0.0000000000
+group_graph Vertex 56 0.0000000000
+group_graph Vertex 55 0.0000000000
+group_graph Vertex 54 0.0000000000
+group_graph Vertex 53 0.0000000000
+group_graph Vertex 52 0.0000000000
+group_graph Vertex 51 0.0000000000
+group_graph Vertex 50 0.0000000000
+group_graph Vertex 49 0.0000000000
+group_graph Vertex 48 0.0000000000
+group_graph Vertex 47 0.0000000000
+group_graph Vertex 46 0.0000000000
+group_graph Vertex 45 0.0000000000
+group_graph Vertex 44 0.0000000000
+group_graph Vertex 43 0.0000000000
+group_graph Vertex 42 0.0000000000
+group_graph Vertex 41 0.0000000000
+group_graph Vertex 40 0.0000000000
+group_graph Vertex 39 0.0000000000
+group_graph Vertex 38 0.0000000000
+group_graph Vertex 37 0.0000000000
+group_graph Vertex 36 0.0000000000
+group_graph Vertex 35 0.0000000000
+group_graph Vertex 34 0.0000000000
+group_graph Vertex 33 0.0000000000
+group_graph Vertex 32 0.0000000000
+group_graph Vertex 31 0.0000000000
+group_graph Vertex 30 0.0000000000
+group_graph Vertex 29 0.0000000000
+group_graph Vertex 12 0.0000000000
+group_graph Vertex 11 0.0000000000
+group_graph Vertex 10 0.0000000000
+group_graph Vertex 9 0.0000000000
+group_graph Vertex 8 0.0000000000
+group_graph Vertex 7 0.0000000000
+group_graph Vertex 6 0.0000000000
+group_graph Vertex 5 0.0000000000
+group_graph Vertex 4 0.0000000000
+group_graph Vertex 3 0.0000000000
+group_graph Vertex 2 0.0000000000
+group_graph Vertex 71 0.0000000000
+group_graph Vertex 72 0.0000000000
+group_graph Vertex 13 0.0000000000
+group_graph Vertex 73 0.0000000000
+group_graph Vertex 14 0.0000000000
+group_graph Vertex 74 0.0000000000
+group_graph Vertex 15 0.0000000000
+group_graph Vertex 75 0.0000000000
+group_graph Vertex 16 0.0000000000
+group_graph Vertex 76 0.0000000000
+group_graph Vertex 17 0.0000000000
+group_graph Vertex 77 0.0000000000
+group_graph Vertex 18 0.0000000000
+group_graph Vertex 78 0.0000000000
+group_graph Vertex 19 0.0000000000
+group_graph Vertex 79 0.0000000000
+group_graph Vertex 20 0.0000000000
+group_graph Vertex 80 0.0000000000
+group_graph Vertex 21 0.0000000000
+group_graph Vertex 81 0.0000000000
+group_graph Vertex 22 0.0000000000
+group_graph Vertex 82 0.0000000000
+group_graph Vertex 23 0.0000000000
+group_graph Vertex 83 0.0000000000
+group_graph Vertex 24 0.0000000000
+group_graph Vertex 84 0.0000000000
+group_graph Vertex 25 0.0000000000
+group_graph Vertex 85 0.0000000000
+group_graph Vertex 26 0.0000000000
+group_graph Vertex 86 0.0000000000
+group_graph Vertex 27 0.0000000000
+group_graph Vertex 99 0.0000000000
+group_graph Vertex 98 0.0000000000
+group_graph Vertex 97 0.0000000000
+group_graph Vertex 96 0.0000000000
+group_graph Vertex 95 0.0000000000
+group_graph Vertex 94 0.0000000000
+group_graph Vertex 93 0.0000000000
+group_graph Vertex 92 0.0000000000
+group_graph Vertex 91 0.0000000000
+group_graph Vertex 90 0.0000000000
+group_graph Vertex 89 0.0000000000
+group_graph Vertex 88 0.0000000000
+group_graph Vertex 87 0.0000000000
+group_graph Vertex 28 0.0000000000
+group_graph Vertex 70 0.0000000000
+group_graph Vertex 69 0.0000000000
+group_graph Vertex 68 0.0000000000
+group_graph Vertex 67 0.0000000000
+group_graph Vertex 66 0.0000000000
+group_graph Vertex 65 0.0000000000
+group_graph Vertex 64 0.0000000000
+group_graph Vertex 63 0.0000000000
+group_graph Vertex 62 0.0000000000
+group_graph Vertex 61 0.0000000000
+group_graph Vertex 60 0.0000000000
+group_graph Vertex 1 0.0000000000
+group_graph Vertex 59 0.0000000000
+group_graph Vertex 0 0.0000000000
+
+group_graph Edge 50 100 1
+group_graph Edge 46 101 1
+group_graph Edge 42 100 1
+group_graph Edge 33 103 1
+group_graph Edge 17 102 1
+group_graph Edge 94 104 1
+group_graph Edge 63 101 1
+group_graph Edge 60 100 1
+
+|T|=5
+group_vertices 104
+group_vertices 103
+group_vertices 102
+group_vertices 101
+group_vertices 100
+
+EOF

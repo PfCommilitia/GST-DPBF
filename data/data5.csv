@@ -1,0 +1,115 @@
+SECTION Comments
+Name "D:\study\help\design\data\data5.csv"
+Creator "graph_hash_of_mixed_weighted_save_for_GSTP"
+END
+
+lambda 1
+
+input_graph |V|=21 |E|=42
+input_graph Vertex 20 0.0000000000
+input_graph Vertex 19 0.0000000000
+input_graph Vertex 18 0.0000000000
+input_graph Vertex 17 0.0000000000
+input_graph Vertex 16 0.0000000000
+input_graph Vertex 15 0.0000000000
+input_graph Vertex 14 0.0000000000
+input_graph Vertex 13 0.0000000000
+input_graph Vertex 0 0.0000000000
+input_graph Vertex 1 0.0000000000
+input_graph Vertex 2 0.0000000000
+input_graph Vertex 3 0.0000000000
+input_graph Vertex 4 0.0000000000
+input_graph Vertex 5 0.0000000000
+input_graph Vertex 6 0.0000000000
+input_graph Vertex 7 0.0000000000
+input_graph Vertex 8 0.0000000000
+input_graph Vertex 9 0.0000000000
+input_graph Vertex 10 0.0000000000
+input_graph Vertex 11 0.0000000000
+input_graph Vertex 12 0.0000000000
+
+input_graph Edge 16 19 1
+input_graph Edge 15 17 2
+input_graph Edge 15 18 4
+input_graph Edge 13 14 3
+input_graph Edge 13 18 3
+input_graph Edge 0 1 4
+input_graph Edge 0 2 4
+input_graph Edge 0 5 3
+input_graph Edge 0 6 3
+input_graph Edge 0 7 1
+input_graph Edge 0 15 3
+input_graph Edge 0 18 1
+input_graph Edge 1 8 3
+input_graph Edge 2 3 2
+input_graph Edge 2 7 4
+input_graph Edge 2 15 2
+input_graph Edge 2 18 3
+input_graph Edge 2 19 1
+input_graph Edge 3 4 2
+input_graph Edge 3 6 3
+input_graph Edge 3 8 3
+input_graph Edge 3 12 4
+input_graph Edge 3 14 4
+input_graph Edge 3 17 2
+input_graph Edge 4 13 4
+input_graph Edge 4 16 1
+input_graph Edge 4 19 3
+input_graph Edge 5 12 1
+input_graph Edge 5 17 4
+input_graph Edge 6 20 2
+input_graph Edge 7 8 2
+input_graph Edge 7 9 3
+input_graph Edge 8 17 2
+input_graph Edge 9 10 4
+input_graph Edge 9 11 1
+input_graph Edge 10 13 3
+input_graph Edge 10 15 3
+input_graph Edge 10 20 3
+input_graph Edge 11 12 3
+input_graph Edge 11 15 3
+input_graph Edge 12 15 4
+input_graph Edge 12 19 2
+
+group_graph |V|=25 |E|=7
+group_graph Vertex 24 0.0000000000
+group_graph Vertex 23 0.0000000000
+group_graph Vertex 22 0.0000000000
+group_graph Vertex 21 0.0000000000
+group_graph Vertex 12 0.0000000000
+group_graph Vertex 11 0.0000000000
+group_graph Vertex 10 0.0000000000
+group_graph Vertex 9 0.0000000000
+group_graph Vertex 8 0.0000000000
+group_graph Vertex 7 0.0000000000
+group_graph Vertex 6 0.0000000000
+group_graph Vertex 5 0.0000000000
+group_graph Vertex 20 0.0000000000
+group_graph Vertex 19 0.0000000000
+group_graph Vertex 18 0.0000000000
+group_graph Vertex 17 0.0000000000
+group_graph Vertex 4 0.0000000000
+group_graph Vertex 16 0.0000000000
+group_graph Vertex 3 0.0000000000
+group_graph Vertex 15 0.0000000000
+group_graph Vertex 2 0.0000000000
+group_graph Vertex 14 0.0000000000
+group_graph Vertex 1 0.0000000000
+group_graph Vertex 13 0.0000000000
+group_graph Vertex 0 0.0000000000
+
+group_graph Edge 11 21 1
+group_graph Edge 10 22 1
+group_graph Edge 9 21 1
+group_graph Edge 7 24 1
+group_graph Edge 3 23 1
+group_graph Edge 13 22 1
+group_graph Edge 0 21 1
+
+|T|=4
+group_vertices 24
+group_vertices 23
+group_vertices 22
+group_vertices 21
+
+EOF

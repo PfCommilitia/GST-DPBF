@@ -1,0 +1,163 @@
+SECTION Comments
+Name "D:\study\help\design\data\data4.csv"
+Creator "graph_hash_of_mixed_weighted_save_for_GSTP"
+END
+
+lambda 1
+
+input_graph |V|=22 |E|=88
+input_graph Vertex 21 0.0000000000
+input_graph Vertex 20 0.0000000000
+input_graph Vertex 19 0.0000000000
+input_graph Vertex 18 0.0000000000
+input_graph Vertex 17 0.0000000000
+input_graph Vertex 16 0.0000000000
+input_graph Vertex 15 0.0000000000
+input_graph Vertex 14 0.0000000000
+input_graph Vertex 13 0.0000000000
+input_graph Vertex 0 0.0000000000
+input_graph Vertex 1 0.0000000000
+input_graph Vertex 2 0.0000000000
+input_graph Vertex 3 0.0000000000
+input_graph Vertex 4 0.0000000000
+input_graph Vertex 5 0.0000000000
+input_graph Vertex 6 0.0000000000
+input_graph Vertex 7 0.0000000000
+input_graph Vertex 8 0.0000000000
+input_graph Vertex 9 0.0000000000
+input_graph Vertex 10 0.0000000000
+input_graph Vertex 11 0.0000000000
+input_graph Vertex 12 0.0000000000
+
+input_graph Edge 20 21 2
+input_graph Edge 17 19 4
+input_graph Edge 17 21 1
+input_graph Edge 16 18 2
+input_graph Edge 16 19 1
+input_graph Edge 15 16 3
+input_graph Edge 15 17 4
+input_graph Edge 15 18 4
+input_graph Edge 15 19 3
+input_graph Edge 15 21 4
+input_graph Edge 14 19 3
+input_graph Edge 13 14 3
+input_graph Edge 13 15 4
+input_graph Edge 13 19 1
+input_graph Edge 13 20 2
+input_graph Edge 13 21 3
+input_graph Edge 0 1 4
+input_graph Edge 0 2 4
+input_graph Edge 0 3 1
+input_graph Edge 0 4 3
+input_graph Edge 0 5 3
+input_graph Edge 0 6 3
+input_graph Edge 0 7 1
+input_graph Edge 0 13 1
+input_graph Edge 0 15 3
+input_graph Edge 0 21 4
+input_graph Edge 1 2 1
+input_graph Edge 1 7 4
+input_graph Edge 1 9 4
+input_graph Edge 1 12 4
+input_graph Edge 1 21 3
+input_graph Edge 2 3 2
+input_graph Edge 2 5 2
+input_graph Edge 2 6 3
+input_graph Edge 2 7 2
+input_graph Edge 2 15 4
+input_graph Edge 2 16 2
+input_graph Edge 2 17 3
+input_graph Edge 2 19 3
+input_graph Edge 3 4 2
+input_graph Edge 3 6 3
+input_graph Edge 3 7 4
+input_graph Edge 3 8 3
+input_graph Edge 3 10 3
+input_graph Edge 3 11 2
+input_graph Edge 3 12 4
+input_graph Edge 3 13 4
+input_graph Edge 3 14 4
+input_graph Edge 3 17 2
+input_graph Edge 3 21 2
+input_graph Edge 4 5 3
+input_graph Edge 4 8 1
+input_graph Edge 4 12 1
+input_graph Edge 4 13 4
+input_graph Edge 4 16 1
+input_graph Edge 4 18 3
+input_graph Edge 4 19 1
+input_graph Edge 4 20 3
+input_graph Edge 5 8 3
+input_graph Edge 5 11 4
+input_graph Edge 5 12 1
+input_graph Edge 5 15 3
+input_graph Edge 5 20 4
+input_graph Edge 6 7 2
+input_graph Edge 6 15 3
+input_graph Edge 6 21 2
+input_graph Edge 7 9 3
+input_graph Edge 7 12 1
+input_graph Edge 7 16 3
+input_graph Edge 8 9 3
+input_graph Edge 8 10 2
+input_graph Edge 8 12 4
+input_graph Edge 8 14 3
+input_graph Edge 8 17 2
+input_graph Edge 8 20 4
+input_graph Edge 8 21 3
+input_graph Edge 9 10 4
+input_graph Edge 9 11 1
+input_graph Edge 9 12 2
+input_graph Edge 9 16 3
+input_graph Edge 10 17 2
+input_graph Edge 10 20 3
+input_graph Edge 11 12 3
+input_graph Edge 11 15 2
+input_graph Edge 11 16 3
+input_graph Edge 11 20 1
+input_graph Edge 12 13 1
+input_graph Edge 12 18 1
+
+group_graph |V|=26 |E|=7
+group_graph Vertex 25 0.0000000000
+group_graph Vertex 24 0.0000000000
+group_graph Vertex 23 0.0000000000
+group_graph Vertex 22 0.0000000000
+group_graph Vertex 12 0.0000000000
+group_graph Vertex 11 0.0000000000
+group_graph Vertex 10 0.0000000000
+group_graph Vertex 9 0.0000000000
+group_graph Vertex 8 0.0000000000
+group_graph Vertex 7 0.0000000000
+group_graph Vertex 6 0.0000000000
+group_graph Vertex 5 0.0000000000
+group_graph Vertex 4 0.0000000000
+group_graph Vertex 21 0.0000000000
+group_graph Vertex 20 0.0000000000
+group_graph Vertex 19 0.0000000000
+group_graph Vertex 18 0.0000000000
+group_graph Vertex 17 0.0000000000
+group_graph Vertex 16 0.0000000000
+group_graph Vertex 3 0.0000000000
+group_graph Vertex 15 0.0000000000
+group_graph Vertex 2 0.0000000000
+group_graph Vertex 14 0.0000000000
+group_graph Vertex 1 0.0000000000
+group_graph Vertex 13 0.0000000000
+group_graph Vertex 0 0.0000000000
+
+group_graph Edge 11 22 1
+group_graph Edge 10 23 1
+group_graph Edge 7 25 1
+group_graph Edge 21 24 1
+group_graph Edge 18 25 1
+group_graph Edge 13 22 1
+group_graph Edge 13 23 1
+
+|T|=4
+group_vertices 25
+group_vertices 24
+group_vertices 23
+group_vertices 22
+
+EOF

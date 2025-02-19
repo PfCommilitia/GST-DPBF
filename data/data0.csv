@@ -1,0 +1,65 @@
+SECTION Comments
+Name "D:\study\help\design\data\data0.csv"
+Creator "graph_hash_of_mixed_weighted_save_for_GSTP"
+END
+
+lambda 1
+
+input_graph |V|=8 |E|=24
+input_graph Vertex 7 0.0000000000
+input_graph Vertex 6 0.0000000000
+input_graph Vertex 5 0.0000000000
+input_graph Vertex 4 0.0000000000
+input_graph Vertex 3 0.0000000000
+input_graph Vertex 2 0.0000000000
+input_graph Vertex 1 0.0000000000
+input_graph Vertex 0 0.0000000000
+
+input_graph Edge 6 7 1
+input_graph Edge 5 6 2
+input_graph Edge 4 5 2
+input_graph Edge 4 6 4
+input_graph Edge 4 7 4
+input_graph Edge 3 4 2
+input_graph Edge 3 5 4
+input_graph Edge 3 6 4
+input_graph Edge 3 7 2
+input_graph Edge 2 3 2
+input_graph Edge 2 4 2
+input_graph Edge 2 5 1
+input_graph Edge 2 6 3
+input_graph Edge 2 7 4
+input_graph Edge 1 3 3
+input_graph Edge 1 4 3
+input_graph Edge 1 6 1
+input_graph Edge 1 7 1
+input_graph Edge 0 1 4
+input_graph Edge 0 2 4
+input_graph Edge 0 4 1
+input_graph Edge 0 5 3
+input_graph Edge 0 6 3
+input_graph Edge 0 7 1
+
+group_graph |V|=11 |E|=3
+group_graph Vertex 10 0.0000000000
+group_graph Vertex 9 0.0000000000
+group_graph Vertex 8 0.0000000000
+group_graph Vertex 0 0.0000000000
+group_graph Vertex 1 0.0000000000
+group_graph Vertex 2 0.0000000000
+group_graph Vertex 3 0.0000000000
+group_graph Vertex 4 0.0000000000
+group_graph Vertex 5 0.0000000000
+group_graph Vertex 6 0.0000000000
+group_graph Vertex 7 0.0000000000
+
+group_graph Edge 0 10 1
+group_graph Edge 1 8 1
+group_graph Edge 4 9 1
+
+|T|=3
+group_vertices 10
+group_vertices 9
+group_vertices 8
+
+EOF
