@@ -39,16 +39,18 @@
 
 ## 配置过程
 
-1. 建议先安装Visual Studio 17 2022（直接下载默认安装即可）：https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022，安装选项选择C++有关的套件。不推荐直接使用VScode（未测试），因为编译时需要依赖Visual Studio附带安装的Msbuild工具
+1. 建议先安装Visual Studio 17 2022（直接下载默认安装即可）：https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022
 
-2. 然后安装Boost 1.87（该项目依赖Boost库）：
+   安装选项选择C++有关的套件。不推荐直接使用VScode（未测试），因为编译时需要依赖Visual Studio附带安装的Msbuild工具
+
+3. 然后安装Boost 1.87（该项目依赖Boost库）：
 
    * 下载:https://sourceforge.net/projects/boost/files/boost-binaries/1.87.0/
      中的`boost_1_87_0-msvc-14.3-64.exe`，运行安装程序，安装地址默认即可（**如果修改了安装地址，则需要修改GST-DPBF/CMakeList.txt的内容，否则将无法找到boost库的位置！）**
 
    * 如遇到安装问题可以参考链接：windows下简易安装boost:https://blog.csdn.net/ckr__/article/details/109683636
 
-3. 由于Visual Studio 17 2022选择C++套件后一般自带cmake，所以可以直接尝试以下测试流程，测试是否配置完成：
+4. 由于Visual Studio 17 2022选择C++套件后一般自带cmake，所以可以直接尝试以下测试流程，测试是否配置完成：
 
    1. 克隆该项目到本地：`git clone git@github.com:SakuraMarble/GST-DPBF.git` 或者 `https://github.com/SakuraMarble/GST-DPBF.git`
 
@@ -212,6 +214,7 @@
 ![img_1.png](img_1.png)
 
 以下是结合此例对相关参数的解释，便于对各个参数的理解：
+> 角标和节点的对应关系可以不必关注
 
 - v_instance_graph[0].size() = 2 表示点v1的度为2;
 - v_instance_graph[0][0].first() = 4表示v1-v5有一条边;
@@ -221,6 +224,7 @@
 - group_vertices包含四个点，9，10，11，12，分别对应四个标签集p1，p2，p3，p4。
 - v_generated_group_graph[9].size() = 1，表示标签集p1包含的节点数量为1;
 - v_generated_group_graph[9][0].first() = 0，表示标签集p1包含节点v1。
+
 
 ## 参考文献
 
