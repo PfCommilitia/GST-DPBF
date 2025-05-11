@@ -6,7 +6,7 @@
 #include <graph_hash_of_mixed_weighted/two_graphs_operations/graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h>
 #include <graph_hash_of_mixed_weighted_read_for_GSTP.h>
 // 实现DPBF算法后，记得取消该注释
-// #include "graph_v_of_v_idealID_DPBF_only_ec.h" 
+#include "graph_v_of_v_idealID_DPBF_only_ec.h" 
 
 
 
@@ -37,11 +37,10 @@ void test_graph_v_of_v_idealID_DPBF_only_ec_cpu() {
         graph_v_of_v_idealID v_generated_group_graph = graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID(
                 generated_group_graph, vertexID_old_to_new);
 
-            int cost = 0;
             // 实现DPBF算法后，记得取消该注释
-            // int cost = graph_v_of_v_idealID_DPBF_only_ec(v_instance_graph,
-            //                                              v_generated_group_graph,
-            //                                              generated_group_vertices);
+            int cost = graph_v_of_v_idealID_DPBF_only_ec(v_instance_graph,
+                                                         v_generated_group_graph,
+                                                         generated_group_vertices);
             cout << cost << endl;
             cout << "------------------------------------------------------------" << endl;
 
