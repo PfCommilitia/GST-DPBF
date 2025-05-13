@@ -1,3 +1,11 @@
+#pragma once
+
+#include <vector>
+#include <queue>
+#include <unordered_set>
+#include <climits>
+#include <utility>
+
 #include <graph_hash_of_mixed_weighted/graph_hash_of_mixed_weighted.h>
 #include <graph_hash_of_mixed_weighted/two_graphs_operations/graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h>
 #include <graph_hash_of_mixed_weighted_read_for_GSTP.h>
@@ -31,7 +39,7 @@ int graph_v_of_v_idealID_DPBF_only_ec(
 
   std::vector<std::vector<int>> dp(
     rawAdjacencyList.size(),
-    std::vector<int>(1 << numGroup, INT_MAX)
+    std::vector<int>(1 << numGroup, std::INT_MAX)
   );
 
   std::priority_queue<Tree, std::vector<Tree>, std::greater<Tree>> Qt;
@@ -73,13 +81,13 @@ int graph_v_of_v_idealID_DPBF_only_ec(
 
     // 3.2 Tree Merge
     for (int flag = 1; flag < maxFlag; flag++) {
-      if ((flag & tree.keywordFlag) || dp[tree.root][flag] == INT_MAX) {
+      if ((flag & tree.keywordFlag) || dp[tree.root][flag] == std::INT_MAX) {
         continue;
       }
 
       int mergedFlag = flag | tree.keywordFlag;
       int mergedCost = dp[tree.root][flag] + tree.cost;
-      
+
       if (mergedCost < dp[tree.root][mergedFlag]) {
         Tree newTree(tree.root, mergedFlag, mergedCost);
         dp[tree.root][mergedFlag] = mergedCost;
