@@ -3,7 +3,6 @@
 #include <vector>
 #include <queue>
 #include <unordered_set>
-#include <climits>
 #include <utility>
 
 #include <graph_hash_of_mixed_weighted/graph_hash_of_mixed_weighted.h>
@@ -39,7 +38,7 @@ int graph_v_of_v_idealID_DPBF_only_ec(
 
   std::vector<std::vector<int>> dp(
     rawAdjacencyList.size(),
-    std::vector<int>(1 << numGroup, std::INT_MAX)
+    std::vector<int>(1 << numGroup, std::numeric_limits<int>::max())
   );
 
   std::priority_queue<Tree, std::vector<Tree>, std::greater<Tree>> Qt;
@@ -81,7 +80,7 @@ int graph_v_of_v_idealID_DPBF_only_ec(
 
     // 3.2 Tree Merge
     for (int flag = 1; flag < maxFlag; flag++) {
-      if ((flag & tree.keywordFlag) || dp[tree.root][flag] == std::INT_MAX) {
+      if ((flag & tree.keywordFlag) || dp[tree.root][flag] == std::numeric_limits<int>::max()) {
         continue;
       }
 
